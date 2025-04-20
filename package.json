@@ -9,6 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-navigation/native-stack": "^7.3.10",
     "ecommerceapp": "file:",
     "expo": "~52.0.43",
     "expo-status-bar": "~2.0.1",
